@@ -1,0 +1,51 @@
+.lod{
+    margin-top: 7rem;
+   padding-left: 5rem;
+}
+.title{
+    margin-top: 6rem;
+}
+.title p{
+font-size: larger;
+/* color:green; */
+line-height: 2;
+ border: 4mm ridge rgba(20, 20, 20, 0.904); 
+padding-left: 1rem;
+padding-bottom: 1rem;
+padding-top:1rem ;
+padding-right:1rem ;
+font-style: italic;
+}
+.bot{
+    display: flex;
+    gap:3rem;
+}
+.poe h2{
+background-color: beige;
+text-align: center;
+font-size: 300%;
+margin-top: 3rem;
+  
+}
+
+
+
+.title h1{
+    font-style: italic;
+
+    /* color: orangered; */
+    margin-bottom: 3rem;
+    text-align: center;
+}
+.photo img{
+   background-color: aqua;
+  width: 30%;
+  height: 30%;
+  
+}
+.photo{
+    display: flex;
+    gap :5rem;
+    justify-content: center;
+    margin-top: 6rem;
+}

@@ -1,0 +1,29 @@
+ .lod{
+    margin-top: 7rem;
+   padding-left: 5rem;
+}
+
+.products h2{
+    font-size: x-large;
+    height: 65px;
+}
+ 
+.products{
+    margin-top: 5rem;
+    
+}
+.allcard{
+    display: flex;
+    margin-bottom: 4rem;
+justify-content: center;
+text-align: center;
+
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-content: space-between;
+    height: 34rem;
+} 
